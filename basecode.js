@@ -82,7 +82,7 @@ function validate(id)
 }
 
 /* FUNCTION --------------------------------------------------------
-    Swap the steckerbrett pairings.
+    Swap the plugboard pairings.
     Eg, pair 'AD' - if 'A' goes in, 'D' comes out and vice versa
    ----------------------------------------------------------------- */
 function swapPlugs(n)
